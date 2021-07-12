@@ -1,23 +1,23 @@
 [
   {
     "id" : 6,
-    "title" : "Flowey",
-    "content" : "only 5 inches",
-    "price" : 120000,
+    "title" : "덴스 콜라보 캡 8821",
+    "content" : "콜라보 캡",
+    "price" : 20000,
     "size" : [95,100]
   },
   {
     "id" : 7,
-    "title" : "Baby shoes",
-    "content" : "for less than 6",
-    "price" : 120000,
+    "title" : "덴스 콜라보 캡 go high bl",
+    "content" : "콜라보 캡",
+    "price" : 25000,
     "size" : [95,100]
   },
   {
     "id" : 8,
-    "title" : "Red Herring",
-    "content" : "Born in France",
-    "price" : 120000,
+    "title" : "덴스 콜라보 캡 go high bk",
+    "content" : "콜라보 캡e",
+    "price" : 25000,
     "size" : [95,100]
   }
 ]
