@@ -1,23 +1,23 @@
 [
   {
-    "id" : 3,
-    "title" : "포켓 오버사이즈 후디bk",
-    "content" : "오리지널",
-    "price" : 60000,
+    "id" : 6,
+    "title" : "덴스 콜라보 캡 8821",
+    "content" : "콜라보 캡",
+    "price" : 20000,
     "size" : [95,100]
   },
   {
-    "id" : 4,
-    "title" : "로고 반팔 티셔츠",
-    "content" : "오리지널",
+    "id" : 7,
+    "title" : "덴스 콜라보 캡 go high bl",
+    "content" : "콜라보 캡",
     "price" : 25000,
     "size" : [95,100]
   },
   {
-    "id" : 5,
-    "title" : "삼선 여성 원피스",
-    "content" : "오리지널",
-    "price" : 52000,
+    "id" : 8,
+    "title" : "덴스 콜라보 캡 go high bk",
+    "content" : "콜라보 캡e",
+    "price" : 25000,
     "size" : [95,100]
   }
 ]
