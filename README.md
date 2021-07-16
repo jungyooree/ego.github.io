@@ -1,1 +1,1 @@
-# jungyooree.github.io
+# ego.github.io
